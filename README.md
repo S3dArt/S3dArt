@@ -1,6 +1,5 @@
-### Hi, I'm Abdessamad.
+### Hi, I'm Dmitriy.
 
-I am a CS student based in Morocco. Used to develop modern web applications under Agile and Scrum methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.
 
 ## 📈 Github Stats
 
