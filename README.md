@@ -13,18 +13,18 @@
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <img alt="B3ns44d's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ns44d&theme=tokyonight" />
+  <img alt="S3dArt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3dArt&theme=tokyonight" />
 </details>
 <!-- <details> 
   <summary>⚡ Contribution Streak</summary>
   <br/>
-  <img alt="B3ns44d's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=b3ns44d&theme=tokyonight" />
+  <img alt="S3dArt's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=S3dArt&theme=tokyonight" />
   <br/>
 </details> -->
 <details> 
   <summary>📈 Activity Graph</summary>
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=B3ns44d&theme=github" alt="B3ns44d's github activity graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=S3dArt&theme=github" alt="S3dArt's github activity graph"/>
 </details>
 
 ## 👨‍💻 Languages and Tools:
@@ -63,7 +63,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
  
-  <img src="https://i.chzbgr.com/full/8358455040/h75DDBE50/escaping-from-terminus" alt="TWD" style="position: absolute; float: right; top:0px;" width="300px">
+  <!---<img src="https://i.chzbgr.com/full/8358455040/h75DDBE50/escaping-from-terminus" alt="TWD" style="position: absolute; float: right; top:0px;" width="300px">-->
 
 
 ### Hosting/SaaS
@@ -93,6 +93,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Anime_snaps/2.gif" alt="Naruto" style="float: left;" width="800px">
+<!---<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Anime_snaps/2.gif" alt="Naruto" style="float: left;" width="800px">-->
+<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Anime_snaps/speedJujutsu.gif" alt="Speed" style="float: left;" width="800px">
 <br><br>
 <br>
