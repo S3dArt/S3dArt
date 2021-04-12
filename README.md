@@ -93,7 +93,7 @@
 
 <br><br>
 
-<!---<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Anime_snaps/2.gif" alt="Naruto" style="float: left;" width="800px">-->
-<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Anime_snaps/speedJujutsu.gif" alt="Speed" style="float: left;" width="800px">
+<!---<img src="https://raw.githubusercontent.com/S3dArt/S3dArt/master/Assets/Anime_snaps/2.gif" alt="Naruto" style="float: left;" width="800px">-->
+<img src="https://raw.githubusercontent.com/S3dArt/S3dArt/master/Assets/Anime_snaps/speedJujutsu.gif" alt="Speed" style="float: left;" width="800px">
 <br><br>
 <br>
